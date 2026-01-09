@@ -1,16 +1,16 @@
 # 🛡️ Cybersecurity Portfolio: Olamide D. Tinuoye
 *ISC2 Certified*
 
-Welcome to my technical portfolio. This repository demonstrates my ability to apply coding and scripting to solve real-world security problems, specifically focusing on **Integrity**, **Auditing**, and **Vulnerability Assessment**.
+Welcome to my technical portfolio. This repository demonstrates my ability to apply coding and scripting to solve real-world security problems, specifically focusing on **Integrity**, **Auditing**,,[...]
 
 ---
 
 ## 📂 Project 1: Automated Data Integrity Verifier
-**File:** [`Data Integrity Checker.py`](Data Integrity Checker.py)  
+**File:** [`Data Integrity Checker.py`](./Data%20Integrity%20Checker.py)  
 **Tech:** Python 3, SHA-256 Hashing
 
 ### 🚨 The Scenario
-In financial services, ensuring **Data Integrity** is critical. If a transaction file is intercepted and modified (Man-in-the-Middle attack) during transmission, the organization faces fraud risk. Manual verification of every file hash is inefficient.
+In financial services, ensuring **Data Integrity** is critical. If a transaction file is intercepted and modified (Man-in-the-Middle attack) during transmission, the organization faces fraud risk.[...]
 
 ### 🛠️ The Solution
 I developed a Python automation tool that acts as a "Digital Wax Seal."
@@ -20,11 +20,11 @@ I developed a Python automation tool that acts as a "Digital Wax Seal."
 ---
 
 ## 📂 Project 2: SQL Injection Vulnerability Audit
-**File:** [`SQL Injection Audit.sql`](SQL Injection Audit.sql)  
+**File:** [`SQL Injection Audit.sql`](./SQL%20Injection%20Audit.sql)  
 **Tech:** SQL (Structured Query Language)
 
 ### 🚨 The Scenario
-SQL Injection (SQLi) is a top OWASP vulnerability where attackers manipulate database queries to bypass authentication. I simulated an attack on a user database to understand how weak input validation compromises security.
+SQL Injection (SQLi) is a top OWASP vulnerability where attackers manipulate database queries to bypass authentication. I simulated an attack on a user database to understand how weak input valida[...]
 
 ### 🛠️ The Solution
 I performed a security simulation using a **Tautology Attack** (`' OR '1'='1`).

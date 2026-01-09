@@ -34,6 +34,21 @@ I performed a security simulation using a **Tautology Attack** (`' OR '1'='1`).
 
 ---
 
+## 📂 Project 3: Network Vulnerability Scanner (Python)
+**File:** [`Network_Vulnerability_Scanner.py`](./Network%20Vulnerability%20Scanner.py)
+**Tech:** Python 3, Socket Programming, TCP/IP
+
+### 🚨 The Scenario
+Modern organizations often suffer from "Shadow IT," where servers have ports left open by mistake. Hackers use automated bots to scan the internet for these open doors (like Port 22 SSH) to launch brute-force attacks.
+
+### 🛠️ The Solution
+I built a "Mini-Nmap" tool using Python to audit network security.
+* **The Code:** Uses the `socket` library to perform a TCP Connect Scan.
+* **The Logic:** Systematically attempts to establish a "Handshake" with a range of ports.
+* **The Findings:** Identified that **Port 22 (SSH)** was exposed to the public, representing a critical security risk that requires firewall remediation.
+
+---
+
 ### 🧷 Project Drive
 * **Google Drive:** [Portfolio](https://drive.google.com/drive/folders/1Qn6WePiA71t7XWv48YyWFkmepg94YIhq?usp=sharing)
 

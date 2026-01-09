@@ -6,7 +6,7 @@ Welcome to my technical portfolio. This repository demonstrates my ability to ap
 ---
 
 ## 📂 Project 1: Automated Data Integrity Verifier
-**File:** [`data_integrity_checker.py`](data_integrity_checker.py)  
+**File:** [`data_integrity_checker.py`](Data Integrity Checker.py)  
 **Tech:** Python 3, SHA-256 Hashing
 
 ### 🚨 The Scenario
@@ -20,7 +20,7 @@ I developed a Python automation tool that acts as a "Digital Wax Seal."
 ---
 
 ## 📂 Project 2: SQL Injection Vulnerability Audit
-**File:** [`sql_injection_audit.sql`](sql_injection_audit.sql)  
+**File:** [`sql_injection_audit.sql`](SQL Injection Audit.sql)  
 **Tech:** SQL (Structured Query Language)
 
 ### 🚨 The Scenario
